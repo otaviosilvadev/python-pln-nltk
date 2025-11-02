@@ -91,7 +91,7 @@ Frase processada (inglês): pizza nothing special
 Análise de sentimentos: {'neg': 0.53, 'neu': 0.47, 'pos': 0.0, 'compound': -0.3089}
 ```
 
-## Como iniciar
+## Como Iniciar
 
 Crie o ambiente virtual:
 
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 python3 src/index.py
 ```
 
-## Autor:
+## Autor
 
 Otávio Silva
 
